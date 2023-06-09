@@ -11,7 +11,7 @@ const Logo = () => {
       onClick={() => router.push("/")}
       className="hidden md:block cursor-pointer font-bold text-3xl text-rose-500"
     >
-      Aabhas Ko Hotel
+      आभास को होटल
     </h1>
     // <Image
     //   onClick={() => router.push('/')}
