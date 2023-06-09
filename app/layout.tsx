@@ -11,6 +11,7 @@ import ToasterProvider from "@/app/providers/ToasterProvider";
 import "./globals.css";
 import ClientOnly from "./components/ClientOnly";
 import getCurrentUser from "./actions/getCurrentUser";
+import { Carousel } from "@sefailyasoz/react-carousel";
 
 export const metadata = {
   title: "Aabhas Ko Hotel",
